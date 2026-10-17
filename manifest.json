@@ -1,0 +1,15 @@
+{
+    "version": "1.1.0",
+    "thumbnail": "store/thumbnail.png",
+    "id": "com_user_NeoNowPlaying",
+    "name": "Neo Now Playing",
+    "minimum-version": "1.0.0",
+    "app-version": "1.5.0-beta",
+    "descriptions": {
+        "en_US": "Now playing (title, artist, cover, progress, animation) rendered exactly for the Stream Deck Neo infobar (248x58)."
+    },
+    "short-descriptions": {
+        "en_US": "Now playing on the Neo infobar"
+    },
+    "tags": ["media", "music", "neo", "infobar"]
+}
